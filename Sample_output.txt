@@ -1,0 +1,13 @@
+Eshell V9.2  (abort with ^G)
+1> c(fib_series).
+{ok,fib_series}
+2> fib_series:fibonacci(10).
+0  1  1  2  3  5  8  13  21  55  
+ok
+3> c(fib_n_term).
+{ok,fib_n_term}
+4> fib_n_term:fibonacci(10).
+
+The 10th fibonacci number is 55
+ok
+5> 
