@@ -1,3 +1,18 @@
+%%---------------------------------------------------------%%
+%% Fibonacci Series for the given Number.                  %%
+%% Author : Subbaramaiah Chevuru                           %%
+%%                                                         %%
+%% Revision Log                                            %%
+%%                                                         %%
+%%---------------------------------------------------------%%
+
+%%------------- Revision History --------------------------%%
+%%
+%% 30-11-2020   -  Added the initial draft to perform the
+%%                 fibonacci series of given number.
+%%
+%%---------------------------------------------------------%%
+
 -module(prog).
  
 -export([fibonacci/1,fib/3]).
